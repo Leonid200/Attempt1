@@ -1,0 +1,24 @@
+Start testing: Jul 15 13:24 MSK
+----------------------------------------------------------
+1/1 Testing: qa_square_ff
+1/1 Test: qa_square_ff
+Command: "/usr/bin/sh" "/home/leonid/OOT/gr-howto/build/python/qa_square_ff_test.sh"
+Directory: /home/leonid/OOT/gr-howto/build/python
+"qa_square_ff" start time: Jul 15 13:24 MSK
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.089s
+
+OK
+DEPRECATED: Using filename with gr_unittest does no longer have any effect.
+<end of output>
+Test time =   3.39 sec
+----------------------------------------------------------
+Test Passed.
+"qa_square_ff" end time: Jul 15 13:24 MSK
+"qa_square_ff" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Jul 15 13:24 MSK

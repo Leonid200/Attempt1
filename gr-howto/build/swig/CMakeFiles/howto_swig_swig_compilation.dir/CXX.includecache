@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonid/OOT/gr-howto/swig/howto_swig.i
+gnuradio.i
+/home/leonid/OOT/gr-howto/swig/gnuradio.i
+howto_swig_doc.i
+/home/leonid/OOT/gr-howto/swig/howto_swig_doc.i
+howto/square_ff.h
+/home/leonid/OOT/gr-howto/swig/howto/square_ff.h
+howto/square2_ff.h
+/home/leonid/OOT/gr-howto/swig/howto/square2_ff.h
+howto/square_ff.h
+/home/leonid/OOT/gr-howto/swig/howto/square_ff.h
+howto/square2_ff.h
+/home/leonid/OOT/gr-howto/swig/howto/square2_ff.h
+

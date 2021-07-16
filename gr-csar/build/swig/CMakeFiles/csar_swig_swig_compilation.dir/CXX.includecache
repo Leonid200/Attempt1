@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonid/OOT/gr-csar/swig/csar_swig.i
+gnuradio.i
+/home/leonid/OOT/gr-csar/swig/gnuradio.i
+csar_swig_doc.i
+/home/leonid/OOT/gr-csar/swig/csar_swig_doc.i
+csar/root_ff.h
+/home/leonid/OOT/gr-csar/swig/csar/root_ff.h
+csar/root_ff.h
+/home/leonid/OOT/gr-csar/swig/csar/root_ff.h
+

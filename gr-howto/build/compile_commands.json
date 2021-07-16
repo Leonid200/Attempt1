@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/leonid/OOT/gr-howto/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_howto_EXPORTS -I/home/leonid/OOT/gr-howto/lib/../include -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-howto.dir/square_ff_impl.cc.o -c /home/leonid/OOT/gr-howto/lib/square_ff_impl.cc",
+  "file": "/home/leonid/OOT/gr-howto/lib/square_ff_impl.cc"
+},
+{
+  "directory": "/home/leonid/OOT/gr-howto/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_howto_EXPORTS -I/home/leonid/OOT/gr-howto/lib/../include -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-howto.dir/square2_ff_impl.cc.o -c /home/leonid/OOT/gr-howto/lib/square2_ff_impl.cc",
+  "file": "/home/leonid/OOT/gr-howto/lib/square2_ff_impl.cc"
+},
+{
+  "directory": "/home/leonid/OOT/gr-howto/build/swig",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dhowto_swig_EXPORTS -I/home/leonid/OOT/gr-howto/build/swig -I/home/leonid/OOT/gr-howto/swig -I/usr/include/gnuradio/swig -I/home/leonid/OOT/gr-howto/lib/../include -isystem /usr/include/python3.8 -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/howto_swig.dir/CMakeFiles/howto_swig.dir/howto_swigPYTHON_wrap.cxx.o -c /home/leonid/OOT/gr-howto/build/swig/CMakeFiles/howto_swig.dir/howto_swigPYTHON_wrap.cxx",
+  "file": "/home/leonid/OOT/gr-howto/build/swig/CMakeFiles/howto_swig.dir/howto_swigPYTHON_wrap.cxx"
+}
+]

@@ -1,0 +1,19 @@
+Start testing: Jul 15 13:53 MSK
+----------------------------------------------------------
+1/1 Testing: qa_root_ff
+1/1 Test: qa_root_ff
+Command: "/usr/bin/sh" "/home/leonid/OOT/gr-csar/build/python/qa_root_ff_test.sh"
+Directory: /home/leonid/OOT/gr-csar/build/python
+"qa_root_ff" start time: Jul 15 13:53 MSK
+Output:
+----------------------------------------------------------
+Segmentation fault (core dumped)
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Failed.
+"qa_root_ff" end time: Jul 15 13:53 MSK
+"qa_root_ff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 15 13:53 MSK

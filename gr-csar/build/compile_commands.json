@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/leonid/OOT/gr-csar/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dgnuradio_csar_EXPORTS -I/home/leonid/OOT/gr-csar/lib/../include -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/gnuradio-csar.dir/root_ff_impl.cc.o -c /home/leonid/OOT/gr-csar/lib/root_ff_impl.cc",
+  "file": "/home/leonid/OOT/gr-csar/lib/root_ff_impl.cc"
+},
+{
+  "directory": "/home/leonid/OOT/gr-csar/build/swig",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_REGEX_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -DGR_CTRLPORT -Dcsar_swig_EXPORTS -I/home/leonid/OOT/gr-csar/build/swig -I/home/leonid/OOT/gr-csar/swig -I/usr/include/gnuradio/swig -I/home/leonid/OOT/gr-csar/lib/../include -isystem /usr/include/python3.8 -O3 -DNDEBUG -fPIC   -fvisibility=hidden -std=gnu++11 -o CMakeFiles/csar_swig.dir/CMakeFiles/csar_swig.dir/csar_swigPYTHON_wrap.cxx.o -c /home/leonid/OOT/gr-csar/build/swig/CMakeFiles/csar_swig.dir/csar_swigPYTHON_wrap.cxx",
+  "file": "/home/leonid/OOT/gr-csar/build/swig/CMakeFiles/csar_swig.dir/csar_swigPYTHON_wrap.cxx"
+}
+]
